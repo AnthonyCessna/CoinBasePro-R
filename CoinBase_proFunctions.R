@@ -3,9 +3,9 @@ library(jsonlite)
 library(base64enc)
 library(digest)
 
-your_key <- "6e2748d54670f802cf50ad872676e6bb"
-your_secret <- "RS1XszjtYmOLVzaqY4TpW40G8FZkLrqANQB6zG2CF/CSD5hET6bAKiISb4NBSaSXTMWgNFN+iijlf4jDnSxtmw=="
-your_passphrase <- "eglvainbnaw"
+your_key <- "6e2748d54670f802cf50ad676e6bb"
+your_secret <- "RS1XszjtYmOLVzaqY440G8FZkLrqANQB6zG2CF/CSD5hET6bAKiISb4NBSaSXTMWgNFN+iijlf4jDnSxtmw=="
+your_passphrase <- "eglvainb"
 
 endpointURL <- "https://api-public.sandbox.pro.coinbase.com"
 
